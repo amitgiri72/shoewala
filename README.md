@@ -54,3 +54,9 @@ public/
 - **images/:** Directory containing the shoe images used in the app.
 - **README.md:** The readme file you are currently reading.
 
+![Screenshot (43)](https://github.com/amitgiri72/shoewala/assets/129004466/c00e5a22-dcbe-40a9-89da-ea3ef215f25c)
+![Screenshot (44)](https://github.com/amitgiri72/shoewala/assets/129004466/1b11bf8e-4feb-4e82-a95b-6a72555abd43)
+![Screenshot (45)](https://github.com/amitgiri72/shoewala/assets/129004466/89b0c268-a96a-4243-92d8-b0c5bf95c363)
+![Screenshot (46)](https://github.com/amitgiri72/shoewala/assets/129004466/f038b04f-a439-4fbd-b4d4-7dd48bd64445)
+![Screenshot (47)](https://github.com/amitgiri72/shoewala/assets/129004466/ce22cfc1-e64f-460f-b217-caa27150017b)
+![Screenshot (48)](https://github.com/amitgiri72/shoewala/assets/129004466/c6cb3033-7f49-4bd3-accb-1a99c197dbe6)
